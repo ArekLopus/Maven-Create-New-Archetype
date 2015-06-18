@@ -22,10 +22,10 @@
       </dependency>
       
       <dependency>
-		<groupId>org.primefaces</groupId>
-		<artifactId>primefaces</artifactId>
-		<version>5.2</version>
-  	  </dependency>
+        <groupId>org.primefaces</groupId>
+        <artifactId>primefaces</artifactId>
+        <version>5.2</version>
+      </dependency>
       
       <dependency>
         <groupId>junit</groupId>
